@@ -1,4 +1,4 @@
-# titlebar
+﻿# titlebar
 一个简单易用的导航栏TitleBar，可以轻松实现IOS导航栏的各种效果
 整个代码全部集中在TitleBar.java中，所有控件都动态生成，动态布局。不需要引用任何资源文件，拷贝TitleBar.java到自己工程即可使用
 ![alt text](http://7xnkdt.com1.z0.glb.clouddn.com/pic.png "Title")
@@ -39,3 +39,4 @@
 ####5. 一行代码适配沉浸式
 ######如果你的项目使用了沉浸式，布局时候加上这行代码，TitleBar会自动填充状态栏
     titleBar.setImmersive(true);
+###
